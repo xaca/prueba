@@ -1,3 +1,16 @@
 body{
     background: greenyellow;
 }
+.boton{
+    background: lightseagreen;
+    color:indigo;
+    text-decoration: none;
+    padding: 10px;
+}
+.seleccionado{
+    background:indigo ;
+    color:lightseagreen;
+}
+a{
+ margin-right: 10px;   
+}
